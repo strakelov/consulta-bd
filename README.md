@@ -1,4 +1,4 @@
-# Semana 2 - Modelamiento Base de Datos
+# Semana 2 - Consulta de Base de Datos
 - **Integrante:** Gabriel Alejandro Gomez Pizarro
 - **Carrera:** Analista Programador Computacional
 - **Fecha de entrega:** 29/10/2026
